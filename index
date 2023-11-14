@@ -1,0 +1,47 @@
+<!DOCTYPE> 
+<html lang="es">
+   <head>
+<ul>
+     <title> <li> Mis datos personales </title>
+   </head>
+   <body>
+</font color>
+ <font color="Red">
+ <h1><center> Mis Datos Personales <center></h1>
+</font color>
+ <font color="black">
+ <h2><u> Caracteristicas Personales </u></h2>
+</font color>
+ <font color="black">
+</ul>
+<p> <li> Nombre: Paul Calderón M
+      <p> <li> Edad: 17 años </p>
+ <p> <li> Signo: Escorpio </p>
+</font color>
+ <font color="Green">
+ </font color>
+ <font color="Green">
+
+
+<h1><center>Hobbies </u></h2>
+</font color>
+ <font color= "Red">
+
+<h1><center><table border="4" cellspacing="1" cellpadding="1">
+  </caption>  
+  <tr>
+    <td><h2> 1.Comer </td>
+    <td><h2> 2.Escuchar música </td>
+ </tr>
+  <tr>
+    <td><h2> 3.Limpiar </td>
+<td><h2> 4.Dormir </td>
+  </tr>  
+</table>
+ </font color>
+ <font color="black">
+ <h2><u> "MI FOTO" </u></h2>
+<mg src="https://m.media-amazon.com/images/I/71aCAILIbkL._AC_SY200_QL15_.jpg">  
+<body bgcolor="#b9ffbb">
+</body>
+ </html>
